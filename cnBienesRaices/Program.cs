@@ -26,7 +26,7 @@ namespace cnBienesRaices
 				clsCuotaCasa calculadora = new clsCuotaCasa(ingresos, costocasa, esCabeza);
 
 				Console.WriteLine("\nResultados: ");
-				Console.WriteLine($"Enganche requerido: {calculadora.CalcularEnganche():C}");
+				Console.WriteLine($"enganche requerido: {calculadora.CalcularEnganche():C}");
 				Console.WriteLine($"Cuota mensual: {calculadora.CalcularCuotaMensual():C}");
 			}
 			catch (Exception ex)
