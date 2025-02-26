@@ -1,0 +1,7 @@
+D:\Herramientas II\cnBienesRaices\cnBienesRaices\bin\Debug\cnBienesRaices.exe.config
+D:\Herramientas II\cnBienesRaices\cnBienesRaices\bin\Debug\cnBienesRaices.exe
+D:\Herramientas II\cnBienesRaices\cnBienesRaices\bin\Debug\cnBienesRaices.pdb
+D:\Herramientas II\cnBienesRaices\cnBienesRaices\obj\Debug\cnBienesRaices.csproj.AssemblyReference.cache
+D:\Herramientas II\cnBienesRaices\cnBienesRaices\obj\Debug\cnBienesRaices.csproj.CoreCompileInputs.cache
+D:\Herramientas II\cnBienesRaices\cnBienesRaices\obj\Debug\cnBienesRaices.exe
+D:\Herramientas II\cnBienesRaices\cnBienesRaices\obj\Debug\cnBienesRaices.pdb
